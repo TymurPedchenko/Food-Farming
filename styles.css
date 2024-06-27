@@ -1,0 +1,15 @@
+/* hover color #C08D5D */
+/* Nav */
+.link {
+  color: #000000;
+}
+
+.link:hover,
+.link:focus {
+  color: #c08d5d;
+  font-family: "Avenir", sans-serif;
+}
+
+.header {
+  font-family: "Playfair Display", sans-serif;
+}
